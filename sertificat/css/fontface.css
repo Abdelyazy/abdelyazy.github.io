@@ -1,0 +1,73 @@
+@font-face {
+   font-family: "Font Awesome Regular";
+   src: url(../ТЗ/сертификат/Шрифты/Font\ Awesome\ 5\ Free-Regular-400.otf);
+}
+@font-face {
+   font-family: "Font Awesome Solid";
+   src: url(../ТЗ/сертификат/Шрифты/Font\ Awesome\ 5\ Free-Solid-900.otf);
+}
+@font-face {
+   font-family: "MuseoSansCyrl100";
+   src: url(../ТЗ/сертификат/Шрифты/MuseoSansCyrl-100.ttf);
+}
+@font-face {
+   font-family: "MuseoSansCyrl100-italic";
+   src: url(../ТЗ/сертификат/Шрифты/MuseoSansCyrl-100Italic.ttf);
+}
+
+@font-face {
+   font-family: "MuseoSansCyrl300";
+   src: url(../ТЗ/сертификат/Шрифты/MuseoSansCyrl-300.ttf);
+}
+
+@font-face {
+   font-family: "MuseoSansCyrl300-italick";
+   src: url(../ТЗ/сертификат/Шрифты/MuseoSansCyrl-300Italic.ttf);
+}
+
+@font-face {
+   font-family: "MuseoSansCyrl500";
+   src: url(../ТЗ/сертификат/Шрифты/MuseoSansCyrl-500.ttf);
+}
+
+@font-face {
+   font-family: "MuseoSansCyrl700";
+   src: url(../ТЗ/сертификат/Шрифты/MuseoSansCyrl-700.ttf);
+}
+
+@font-face {
+   font-family: "MuseoSansCyrl900";
+   src: url(../ТЗ/сертификат/Шрифты/MuseoSansCyrl-900.ttf);
+}
+
+@font-face {
+   font-family: "ProximaNova-Black";
+   src: url(../ТЗ/сертификат/Шрифты/ProximaNova-Black.ttf);
+}
+
+@font-face {
+   font-family: "ProximaNova-Blackit";
+   src: url(../ТЗ/сертификат/Шрифты/ProximaNova-BlackIt.ttf);
+   
+}
+
+@font-face {
+   font-family: "ProximaNova-Bold";
+   src: url(../ТЗ/сертификат/Шрифты/ProximaNova-Bold.ttf);
+}
+
+@font-face {
+   font-family: "ProximaNovaCond-Semibold";
+   src: url(../ТЗ/сертификат/Шрифты/ProximaNovaCond-Semibold.ttf);
+}
+
+@font-face {
+   font-family: "ProximaNovaCond-Thin";
+   src: url(../ТЗ/сертификат/Шрифты/ProximaNovaCond-Thin.ttf);
+}
+
+@font-face {
+   font-family: "ProximaNova-Semibold";
+   src: url(../ТЗ/сертификат/Шрифты/ProximaNova-Semibold.ttf);
+}
+
