@@ -33,7 +33,9 @@ body {
    text-align: center;
 }
 
-.logo img,
+.logo img {
+   max-width: 500px;
+}
 .chip img {
    max-width: 100%;
 }
