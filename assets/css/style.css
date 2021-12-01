@@ -6642,13 +6642,14 @@ button:focus {
 }
 
 .swiper-pagination {
+     display: none;
     -moz-text-align-last: left;
     text-align-last: left;
-    display: none;
 }
 
 .swiper-pagination-bullet-active {
     background: #fdd835 !important;
+    display: none;
 }
 
 .contact {
