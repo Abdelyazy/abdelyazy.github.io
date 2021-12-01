@@ -5001,6 +5001,7 @@ button:focus {
       content: '-'; }
 
 .swiper-pagination {
+  display: none;
   text-align-last: left; }
 
 .swiper-pagination-bullet-active {
